@@ -1,6 +1,5 @@
 {
-  "name": "nativescript-modal-datetimepicker",
-  "main": "index.js",
-  "author": "",
-  "license": "ISC",
+  "scripts":{
+    "install":"cd src && npm install"
+  }
 }
