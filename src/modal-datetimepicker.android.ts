@@ -60,7 +60,6 @@ export class ModalDatetimepicker {
         }
         let datePicker = new android.app.DatePickerDialog(
           app.android.foregroundActivity,
-          themeId,
           new android.app.DatePickerDialog.OnDateSetListener({
             onDateSet: function(view, year, monthOfYear, dayOfMonth) {
               const date = {
