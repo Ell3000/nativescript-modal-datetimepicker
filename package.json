@@ -1,5 +1,6 @@
 {
-  "scripts":{
-    "install":"cd src && npm install"
-  }
+    "name": "nativescript-modal-datetimepicker",
+    "scripts":{
+      "install":"cd src && npm install"
+    }
 }
